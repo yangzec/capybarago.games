@@ -1,4 +1,4 @@
-# capybarago.games
+# url(capybarago.games)
 
 
 ## How to Play Capybara Go: A Comprehensive Guide
