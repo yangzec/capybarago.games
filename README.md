@@ -1,7 +1,5 @@
-# url(capybarago.games)
 
-
-## How to Play Capybara Go: A Comprehensive Guide
+# How to Play Capybara Go: A Comprehensive Guide
 
 Capybara Go is an engaging mobile roguelike RPG that invites players into a whimsical world filled with adventure, challenges, and cute capybara companions. This guide will provide you with a structured approach to mastering the game, including gameplay mechanics, strategies for leveling up, skill selection, and tips for maximizing your experience.
 
